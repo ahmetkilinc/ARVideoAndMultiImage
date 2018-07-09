@@ -1,0 +1,4 @@
+#Mon Jul 09 17:26:50 EET 2018
+base.0=C\:\\Users\\volts\\Desktop\\androidapp2\\HelloARVideo\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
